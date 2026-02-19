@@ -47,7 +47,7 @@ Designed to simulate real-world product architecture with authentication, conten
 
 ```bash
 # Clone the repository
-git clone https://github.com/YOUR_USERNAME/social-media-platform.git
+git clone https://github.com/chandreshk-dev/social-media-platform.git
 
 # Install dependencies
 npm install
